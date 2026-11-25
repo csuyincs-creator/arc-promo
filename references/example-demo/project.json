@@ -1,0 +1,22 @@
+{
+  "opening": "earth_rise",
+  "order": [
+    "bubble", "sun", "blueprint", "pluto", "iceberg", "earthrise", "lavender", "mars", "snowflake", "collage", "aurora", "haeckel_dark",
+    "moon", "carina", "sun_gold", "iss_sunset", "earth_day",
+    "clouds_sea", "lofoten", "milkyway", "vatna", "city_lights",
+    "dune", "serengeti", "uyuni", "waterfall", "mtn_clouds", "river_snow",
+    "globe", "sakura", "topo", "deepfield", "thin_film", "haeckel_light", "fog_sea", "dandelion"
+  ],
+  "phrases": [
+    {"line1": "每一个", "line2": "Every"},
+    {"line1": "远方", "line2": "horizon"},
+    {"line1": "都从", "line2": "begins"},
+    {"line1": "这里", "line2": "right here"}
+  ],
+  "textStart": 8.4,
+  "growLast": true,
+  "endCards": [
+    {"kind": "title", "line1": "远方", "line2": "H O R I Z O N"},
+    {"kind": "line", "line1": "每一个远方，都从这里开始", "line2": "Every horizon begins right here."}
+  ]
+}

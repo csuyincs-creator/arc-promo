@@ -1,0 +1,16 @@
+# build outputs
+out/
+node_modules/
+.venv/
+raw/
+*.mp4
+*.mov
+*.webm
+
+# python
+__pycache__/
+*.pyc
+
+# os / editor
+.DS_Store
+*.swp

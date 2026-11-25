@@ -1,0 +1,21 @@
+{
+  "name": "arc-promo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Arc out/promo_4k.mp4 --scale=2 --crf=17",
+    "render:hd": "remotion render src/index.ts Arc out/promo_1080p.mp4 --crf=18"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.543",
+    "@remotion/cli": "4.0.543",
+    "@remotion/renderer": "4.0.543",
+    "@types/react": "^19.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "4.0.543",
+    "typescript": "^7.0.2"
+  }
+}
